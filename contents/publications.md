@@ -1,6 +1,3 @@
-- XXXXXXX论文
+- **Zhang, S.**, Wei, W., Huang, R., Xie, W., & Chen, D. (2024, November). Modeling Historical Relevant and Local Frequency Context for Representation-Based Temporal Knowledge Graph Forecasting. In Findings of the Association for Computational Linguistics: EMNLP 2024 (pp. 7675-7686).
 
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- Huang, R., Wei, W., Qu, X., **Zhang, S.**, Chen, D., & Cheng, Y. (2024, August). Confidence is not timeless: Modeling temporal validity for rule-based temporal knowledge graph forecasting. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 10783-10794).
