@@ -6,6 +6,6 @@ I'm currently pursuing a Master's degree at the Department of School of Computer
 <code>zshengz@hust.edu.cn</code>  
 
 #### Education  
-**HuangZhong University of Science and Technology**, MS student (2023-now)
+**Huangzhong University of Science and Technology**, MS student (2023-now)
 
-**HuangZhong University of Science and Technology**, Undergrad student (2019-2023)
+**Huangzhong University of Science and Technology**, Undergrad student (2019-2023)
